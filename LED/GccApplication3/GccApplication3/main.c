@@ -5,6 +5,7 @@
  * Author : Rohit Engl
  */
 //this is rohit engla and i had added this while learning github
+//this is second practice
 unsigned char A=9;
 #include <avr/io.h>
 #define FOSC 1843200 // Clock Speed
